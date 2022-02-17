@@ -1,3 +1,14 @@
 npm init -y
 
-npm i body-parser cors express mongoose nodemon
+npm i body-parser cors express mongoose nodemon dotenv
+
+
+React blog website
+ fornow its cover (CRUD) - 
+    React, node, express, mongoDB, redux
+    functionalities - add, update, delete, getall
+
+ for additional plan to work on - 
+    using Material ui for fontend implemetation
+    user login authentication
+    validations
